@@ -1,6 +1,6 @@
-# ✅ Flutter Todo App
+# ✅ Fancy Counter App
 
-🚀 **Project:** Todo App  
+🚀 **Project:** Fancy Counter App  
 👨‍💻 **Developer:** Engr.Josimuddin (he/him)  
 🏢 **Company:** Independent Developer  
 📍 **Location:** Dhaka, Bangladesh  
@@ -9,33 +9,33 @@
 ---
 
 ## 📝 Description
-The Flutter Todo App is a simple yet powerful task management application built using Flutter.  
-It helps users efficiently organize, prioritize, and track their daily tasks with an intuitive interface and smooth user experience.  
-Users can add, edit, delete, and mark tasks as completed — ensuring better productivity and effective time management.
+The Flutter Fancy Counter App is a fun and interactive counter application built using Flutter.  
+It allows users to increment, reset, and track a counter with a smooth and responsive UI.  
+Includes animated transitions, confetti effects, and dark/light theme toggle for enhanced user experience.
 
 ---
 
 ## ⚙️ Features
-✨ Add, edit, and delete tasks  
-🗂 Categorize and prioritize tasks  
-⏰ Mark tasks as completed  
-📱 Beautiful and responsive Flutter UI  
-💾 Local storage support
+✨ Increment and reset counter  
+🎉 Confetti animation on increment  
+🌗 Dark and light theme toggle  
+📜 View history of counter values  
+📱 Beautiful and responsive Flutter UI
 
 ---
 
 ## 🛠️ Technology Used
 - Flutter & Dart
-- Provider / GetX / Bloc (for state management)
-- SQLite (Local Database)
+- Confetti Package (for animation)
 - Material Design 3
+- Git
 
 ---
 
 ## 📦 Installation
 Clone the repository:
 ```bash
-git clone https://github.com/EngrJosimuddin42/Todo-Application.git
+git clone https://github.com/EngrJosimuddin42/Fancy-Counter.git
 
 ---
 
